@@ -1,6 +1,6 @@
 {
   "name": "ultra-unique-uuid",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Generate extremely unique UUIDs with enhanced entropy for guaranteed uniqueness",
   "main": "index.js",
   "bin": {
