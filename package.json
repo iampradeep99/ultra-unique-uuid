@@ -30,15 +30,15 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/yourusername/ultra-unique-uuid.git"
+    "url": "https://github.com/iampradeep99/ultra-unique-uuid.git"
   },
   "bugs": {
-    "url": "https://github.com/yourusername/ultra-unique-uuid/issues"
+    "url": "https://github.com/iampradeep99/ultra-unique-uuid/issues"
   },
-  "homepage": "https://github.com/yourusername/ultra-unique-uuid#readme",
+  "homepage": "https://github.com/iampradeep99/ultra-unique-uuid#readme",
   "devDependencies": {
     "@types/node": "^20.0.0",
-    "jest": "^29.0.0",
+    "jest": "^29.7.0",
     "typescript": "^5.0.0"
   },
   "engines": {
